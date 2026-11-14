@@ -3,3 +3,4 @@ change 1
 change 2
 zad 2 from main
 zad3 change from zad3
+zad3 from main
